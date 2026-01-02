@@ -2,6 +2,8 @@
 
 This document provides detailed specifications for extending your basic proof-of-work blockchain with advanced features. Each section includes code examples, implementation guidance, and complexity estimates.
 
+> **📚 New to these features?** See [WHY-THESE-FEATURES.md](WHY-THESE-FEATURES.md) for explanations of why each feature is needed and what problems they solve.
+
 ---
 
 ## Table of Contents
